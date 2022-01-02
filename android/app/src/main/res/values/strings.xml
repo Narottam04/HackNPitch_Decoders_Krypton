@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">krypton</string>
+    <string name="title_activity_main">krypton</string>
+    <string name="package_name">com.krypton.android</string>
+    <string name="custom_url_scheme">com.krypton.android</string>
+</resources>
